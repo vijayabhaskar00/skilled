@@ -159,9 +159,9 @@ a:hover {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.5rem 2.625rem 1.5rem 2.625rem;
-	border: 1px solid #91d343;
+	border: 1px solid #000000;
 	border-radius: 2rem;
-	background-color: #91d343;
+	background-color: #000000;
 	color: #fff;
 	font: 700 0.875rem/0 "Montserrat", sans-serif;
 	transition: all 0.2s;
@@ -782,7 +782,7 @@ input[type='checkbox'] {
 }
 
 .header #js-rotating {
-	color: #a0e94d;
+	color: #000000;
 }
 
 
