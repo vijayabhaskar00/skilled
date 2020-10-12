@@ -984,7 +984,7 @@ input[type='checkbox'] {
 .form-1 {
 	padding-top: 7.5rem;
 	padding-bottom: 6.375rem;
-	background-color: #2f3b4d;
+	background-color: #f0f6ff;
 	color: #fff;
 }
 
@@ -993,7 +993,7 @@ input[type='checkbox'] {
 .form-1 p,
 .form-1 ul,
 .form-1 a {
-	color: #fff;
+	color: #000;
 }
 
 .form-1 .text-container {
